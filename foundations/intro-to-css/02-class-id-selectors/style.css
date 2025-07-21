@@ -8,3 +8,12 @@
     font-size: 24px;
     font-weight: 700;
 }
+
+.odds {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.odds.font24 {
+    font-size: 24px;
+}
