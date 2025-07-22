@@ -32,3 +32,11 @@ a {
   text-decoration: none;
   justify-content: space-evenly;
 }
+
+.left-links {
+  justify-content: flex-start;
+}
+
+.right-links {
+  justify-content: flex-end;
+}
