@@ -3,7 +3,7 @@
   background: papayawhip;
   display: flex;
   gap: 8px;
-  
+  justify-content: space-evenly;
 }
 
 .logo {
