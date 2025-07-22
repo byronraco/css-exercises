@@ -30,4 +30,5 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
   justify-content: space-evenly;
+  gap: 8px;
 }
