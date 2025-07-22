@@ -40,7 +40,6 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  justify-content: flex-end;
 }
 
 a {
@@ -56,3 +55,4 @@ ul {
   padding: 0;
   gap: 16px;
 }
+
